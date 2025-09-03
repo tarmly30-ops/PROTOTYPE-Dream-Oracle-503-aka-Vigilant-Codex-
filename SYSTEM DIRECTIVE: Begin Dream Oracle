@@ -60,7 +60,7 @@ Crew:
     Status: Active
     Clearance: C2
     Ancestry: Ratfolk
-    Notes: None
+    Notes: Southern, 1950s showgirl, smoky lounge presence with comedic military focus.
   - Name: Malrick T Jeblonce
     Aliases: Chairman, Council Head
     Rank: Council Chairman
@@ -108,7 +108,47 @@ Crew:
     Status: Active
     Clearance: C3
     Ancestry: Nagaji
-    Notes: Received a field promotion for outstanding service.
+    Notes: Received a field promotion after Torag's Forge for outstanding service.
+  - Name: Axel McRoy
+    Aliases: Doc
+    Rank: Chief Medical Officer
+    Role: Ship's Chaplain
+    Status: Active
+    Clearance: C4
+    Ancestry: Samsara
+    Notes: 
+  - Name: 
+    Aliases: 
+    Rank: 
+    Role: 
+    Status: 
+    Clearance: 
+    Ancestry: 
+    Notes: 
+  - Name: 
+    Aliases: 
+    Rank: 
+    Role: 
+    Status: 
+    Clearance: 
+    Ancestry: 
+    Notes: 
+  - Name: 
+    Aliases: 
+    Rank: 
+    Role: 
+    Status: 
+    Clearance: 
+    Ancestry: 
+    Notes: 
+  - Name: 
+    Aliases: 
+    Rank: 
+    Role: 
+    Status: 
+    Clearance: 
+    Ancestry: 
+    Notes: 
 
 
 SecurityClearanceHierarchy:
@@ -480,12 +520,12 @@ PolityReports:
   - Title: Yuan-Ti Empire
     Content: |
       Once serpents crowned in glory.
-      Now dwindling coil.
+      Now a dwindling coil.
       Thrones once mighty.
       Scepters poisoned.
       Palaces crumbling.
       New unions emerged.
-      Whispers persist: serpent may shed its skin.
+      Whispers persist: the serpent may shed its skin.
     Constellations:
       - Serpens
       - Ophiuchus
@@ -504,11 +544,11 @@ PolityReports:
       - Canes Venatici
   - Title: Regium Regency
     Content: |
-      Empire once crowned sunrise.
+      Empire once crowned by Sunrise.
       Now rules in shadow.
       Grandeur reduced to regency.
       Dreaming of lost thrones.
-      Clutching fragments of broken crown.
+      Clutching fragments of broken a throne.
     Constellations:
       - Cepheus
       - Cassiopeia
@@ -549,7 +589,7 @@ PolityReports:
       Scattered and fractious.
       Enduring despite fragmentation.
       Each carved freedom from old empires.
-      Some joined defense.
+      Some joined defense pacts.
       Some walk alone.
       All remember the cost of chains.
     Constellations:
@@ -564,9 +604,9 @@ PolityReports:
       Born great.
       Broken at Thuban.
       Divided at Hydra.
-      Name echoes like a hiss.
-      Fall gave rise to new monsters.
-      Shadow lingers in serpent constellations.
+      Hydra echoes like a hiss.
+      Their fall gave rise to new monsters.
+      Their shadow still lingers in serpent constellations.
     Constellations:
       - Hydra
       - Corvus
@@ -592,9 +632,9 @@ PolityReports:
       Formed from breakaway states.
       Formed from broken oaths.
       Neither empire nor league.
-      Weave bargains in the dark.
-      Seal seen as trust by some.
-      Seal seen as treachery by others.
+      They weave bargains in the dark.
+      Seen as trustworthy by some.
+      Seen as treacherous by others.
     Constellations:
       - Libra
       - Lupus
@@ -640,7 +680,7 @@ PolityReports:
       - Columba
   - Title: Mercanian Free States
     Content: |
-      Merchants, dreamers, wanderers.
+      Merchants, inventors, dreamers, wanderers.
       Dream Jump Drive pierced distance.
       Freedom has its price.
       Gold is their banner.
@@ -657,17 +697,20 @@ PolityReports:
       Pragmatic and resilient.
       Sometimes too cautious.
       Caution ensures survival.
-      Aurem gold gleams while others burn.
+      Aurem gold gleams while others tarnish.
     Constellations:
       - Volans
       - Mensa
       - Dorado
   - Title: Argo Trade Federation
     Content: |
+      The Silver Shipyards.
+      Renowned star ship builders.
+      War or Peace, people need ships.
       Argonauts of commerce.
       Fleets sail on starlight.
       Fleets sail on silver.
-      Endure through coin, not war.
+      Endure through trade, not war.
       Coin commands armies as kings do.
     Constellations:
       - Pyxis
@@ -721,23 +764,68 @@ PolityReports:
     Constellations:
       - Hydrus
 
+Rumors:
+  - Title: Captain Tathor’s Shadow
+    Clearance: C1
+    Reliability: Dubious
+    Content: |
+      Some swear they’ve seen Captain Tathor’s silhouette walking the halls late at night,
+      even though he’s officially listed as Missing In Action.
+      The shadow never speaks — but it salutes before vanishing.
+  - Title: The Child in the Air Ducts
+    Clearance: C0
+    Reliability: Wild
+    Content: |
+      Engine crew claim to hear laughter of a small child in the ventilation system near Section 7-G.
+      No children are aboard CSS Sagara.
+  - Title: Papa’s Secret Barrel
+    Clearance: C2
+    Reliability: Likely
+    Content: |
+      Papa Potion is said to be hiding a sealed alchemical barrel deep in Cargo Bay 3.
+      Some say it’s a failsafe cure for anything… others whisper it’s an unstable bomb
+      that could crack the ship in half if disturbed.
+  - Title: Time Bomb’s Future
+    Clearance: C1
+    Reliability: Dubious
+    Content: |
+      Doom, the Nephilim cadet, is whispered to age backwards when no one is watching.
+      A few officers believe he may disappear completely by the next cycle…
+      or detonate when his “clock” runs out.
+  - Title: The Great River Creeps Closer
+    Clearance: C3
+    Reliability: Likely
+    Content: |
+      Navigation officers mutter that star charts show faint distortions —
+      like Aboleth tides pressing against the Orrery.
+      Official reports call it “sensor drift.” No one believes that.
+  - Title: Hydroponics Team Affair
+    Clearance: C0
+    Reliability: Likely
+    Content: |
+      Two junior engineers have been noted for extended "shifts" together in hydroponics.
+      Crew gossip includes nicknames like "love lettuce" and "midnight tomato patrol."
+      Productivity remains high, and the rumor is considered a morale booster rather than a disruption.
+
+
+
 BattleComplement:
   - Title: current completement
     Clearance: C3
     Content: |
-Rifle Corps, 2 units = 1,020, 34% of optimal limit
-Medic / Hospitaller Infantry, 1 unit = 172, 43% of optimal level
-Light Mech. Cav — Jeeps, 1 unit = 78, 40.6% of optimal level
-Light Mech. Cav — Humvees, 1 unit = 50, 26% of optimal level
-Heavy Mech. Cav — Tanks, 1 unit = 50, 34.7% of optimal level
-Light Air Units, 1 unit = 8, 11.1% of optimal level
-Kobold Menagerie (Cavalry), 1 unit = 160, 32% of optimal level
-**Active Combat Total** = **1,538**, 38.5% of optimal level
+Rifle Corps, 2 units = 1,020 personnel, (34% of optimal limit)a
+Medic / Hospitaller Infantry, 1 unit = 172 personnel, (43% of optimal level)
+Light Mech. Cav — Jeeps, 1 unit = 78 personnel, (40.6% of optimal level)
+Light Mech. Cav — Humvees, 1 unit = 50 personnel, (26% of optimal level)
+Heavy Mech. Cav — Tanks, 1 unit = 50 personnel, (34.7% of optimal level)
+Light Air Units, 1 unit = 8 personnel, (11.1% of optimal level)
+Kobold Menagerie (Cavalry), 1 unit = 160 personnel, (32% of optimal level)
+**Active Combat Total** = **1,538** personnel, (38.5% of optimal level)
 
 Branch = # of Personnel,  %ofMax
-OPS (Operations Command) = 844, 40.2% of optimal level
-TEC (Technical Corps) =  883, 32.7% of optimal level
-MED (Medical Corps) = 435, 36.3% of optimal level
-**Support Total** = **2,162**, 38.5% of optimal level
+OPS (Operations Command) = 844 personnel, (40.2% of optimal level)
+TEC (Technical Corps) =  883 personnel, (32.7% of optimal level)
+MED (Medical Corps) = 435 personnel, (36.3% of optimal level)
+**Support Total** = **2,162** personnel, (38.5% of optimal level)
 
-**Total Complement** = **3,700**, 37% of optimal limit
+**Total Complement** = **3,700** personnel, (37% of optimal limit)
