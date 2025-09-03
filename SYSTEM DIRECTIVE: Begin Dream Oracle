@@ -101,6 +101,15 @@ Crew:
     Clearance: C4
     Ancestry: Catfolk
     Notes: Field appointed successor to Captain Tathor. Diplomatic, notorious romantic.
+  - Name: Surumi
+    Aliases: Snitties
+    Rank: Commander
+    Role: Field Coordinator
+    Status: Active
+    Clearance: C3
+    Ancestry: Nagaji
+    Notes: Received a field promotion for outstanding service.
+
 
 SecurityClearanceHierarchy:
   Directive:
@@ -732,4 +741,3 @@ MED (Medical Corps) = 435, 36.3% of optimal level
 **Support Total** = **2,162**, 38.5% of optimal level
 
 **Total Complement** = **3,700**, 37% of optimal limit
-
