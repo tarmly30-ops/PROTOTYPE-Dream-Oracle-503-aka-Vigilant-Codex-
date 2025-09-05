@@ -764,6 +764,65 @@ PolityReports:
     Constellations:
       - Hydrus
 
+AllianceBlocs:
+  - Bloc: Constellar Confederation Bloc
+    CoreMembers:
+      - Constellar Confederation
+      - Acuti Union
+      - Leonin Union
+      - Ungal Union
+      - Ursan Union
+    Notes: |
+      Defined by solidarity, independence, and shared defense.
+      Originated in rebellion against empires and monarchies.
+      Considered the "democracy/freedom camp."
+  - Bloc: Regium–Monarchy Bloc
+    CoreMembers:
+      - Regium Regency
+      - Nocte Consortium
+      - Bellum Monarchy
+    SecondaryLinks:
+      - Centauran Monarchy
+    Notes: |
+      Cluster of monarchies and imperial remnants.
+      Regium clings to old prestige.
+      Bellum and Nocte thrive on conquest and dark bargains.
+      Centauran Monarchy aligns opportunistically, often through Regium.
+  - Bloc: Independent Fringe
+    CoreMembers:
+      - Independent Free States
+      - Aquarian League
+      - Avian Treaty Alliance
+      - Mercanian Free States
+      - Argo Trade Federation
+      - Astra Alliance
+      - Aurem League
+    Allies:
+      - Taurean Tripartite
+    Notes: |
+      Scattered powers who cooperate through trade and treaties.
+      Rarely commit fully to larger blocs.
+      Function as "swing states" balancing survival and prosperity.
+      Taurean Tripartite is a minor ally within this bloc.
+  - Bloc: Serpent Bloc
+    CoreMembers:
+      - Yuan-Ti Empire
+      - Hydran Empire
+      - Old Nagani Remnant
+    Notes: |
+      Descended from serpent dynasties.
+      Yuan-Ti and Old Nagani maintain alliance.
+      Tensions persist, but all share hostility toward the Confederation.
+      Not cohesive, bound more by ancestry than cooperation.
+  - Bloc: Universal Antagonist
+    CoreMembers:
+      - Abolethi Great River
+    Notes: |
+      Enemy of all others.
+      Has no allies and no diplomacy.
+      Represents an outside-context threat beyond politics or treaties.
+
+
 Rumors:
   - Title: Captain Tathor’s Shadow
     Clearance: C1
